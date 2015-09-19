@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone will clone repos from Github into your own local repository. The command will automatically create a local git repository and setup a remote inside. It is best to run the command when in your "Projects" folder since it will create a sub-directory for you.
