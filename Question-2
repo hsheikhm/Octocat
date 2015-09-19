@@ -1,1 +1,2 @@
-Explain what the "upstream" remote is usually used for, in your own words
+When you have a fork which is a copy of a repo from the original location, sometimes you may want to push changes directly into the original repo instead of your own fork. In this case you would need to setup a remote upstream.
+The remote upstream will then allow you to sync any changes directly to the origal repo stored under the original author e.g. Makers Academy.
